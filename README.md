@@ -1,4 +1,13 @@
 # CODTECH-IT-SOLUTIONS
+CODTECH-Internship-Task-2
+
+Name : SIVA PERIYASAMY KAVITHA
+Company : CODTECH IT SOLUTIONS Intern ID :CT08DS410
+Domain : Artificial Intelligence
+
+Duration : DECEMBER 5th, 2024 to JANUARY 5th, 2025.
+
+Mentor : Muzammil
 OVERVIEW OF THE PROJECT:
 
 Project: MODEL EVALUATION AND COMPARISION Data Preprocessing and Model Evaluation Pipeline Project Overview This project provides a comprehensive machine learning pipeline designed for data preprocessing and model evaluation. It facilitates seamless preprocessing of raw datasets, enabling users to quickly prepare their data for machine learning tasks. The pipeline handles missing data, encodes categorical variables, scales numerical features, and evaluates multiple models. Specifically, it supports classification tasks by training and evaluating two machine learning models:
@@ -15,4 +24,8 @@ Missing values are handled by imputing numerical columns with the mean and categ
 
 Model Training and Evaluation: Logistic Regression and Random Forest models are trained using the training set. Models are evaluated on the test set, and performance is reported using accuracy, precision, recall, and F1 score. Results are printed for each model for comparison.
 
-Libraries Used Pandas: Data manipulation and preprocessing. Scikit-learn: For machine learning algorithms, data preprocessing, and performance evaluation. Google Colab: Cloud-based environment for easy data upload and execution. Logistic Regression: A linear model for classification tasks. Random Forest Classifier: An ensemble model for classification. Evaluation Metrics: Accuracy, Precision, Recall, F1 Score. Usage Instructions Upload Dataset: Click the "Upload" button in Google Colab to upload a CSV file containing your dataset. Run the Pipeline: Execute the script to perform preprocessing, train the models, and evaluate their performance. View Results: Review the printed evaluation metrics for both models to assess their performance. Example Output: After running the code, the output is:
+Libraries Used Pandas: Data manipulation and preprocessing. Scikit-learn: For machine learning algorithms, data preprocessing, and performance evaluation. Google Colab: Cloud-based environment for easy data upload and execution. Logistic Regression: A linear model for classification tasks. Random Forest Classifier: An ensemble model for classification. Evaluation Metrics: Accuracy, Precision, Recall, F1 Score. Usage Instructions Upload Dataset: Click the "Upload" button in Google Colab to upload a CSV file containing your dataset. Run the Pipeline: Execute the script to perform preprocessing, train the models, and evaluate their performance. View Results: Review the printed evaluation metrics for both models to assess their performance. 
+
+Example Output: After running the code, the output is:
+![task2](https://github.com/user-attachments/assets/d3e109f2-7cf2-4ec0-98f6-1efc44c3ebca)
+
